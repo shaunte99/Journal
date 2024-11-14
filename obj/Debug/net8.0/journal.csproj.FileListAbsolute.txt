@@ -1,0 +1,14 @@
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\bin\Debug\net8.0\journal.exe
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\bin\Debug\net8.0\journal.deps.json
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\bin\Debug\net8.0\journal.runtimeconfig.json
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\bin\Debug\net8.0\journal.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\bin\Debug\net8.0\journal.pdb
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\journal.AssemblyInfoInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\journal.AssemblyInfo.cs
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\journal.csproj.CoreCompileInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\journal.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\refint\journal.dll
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\journal.pdb
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\journal.genruntimeconfig.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\journal\journal\obj\Debug\net8.0\ref\journal.dll
